@@ -1,0 +1,2 @@
+# weupcoin
+CoinFlip Duhh
